@@ -11,7 +11,7 @@
 * \*\*\*\*[**https://datarecovery.com/rd/default-passwords/**](https://datarecovery.com/rd/default-passwords/)\*\*\*\*
 * \*\*\*\*[**https://bizuns.com/default-passwords-list**](https://bizuns.com/default-passwords-list)\*\*\*\*
 * \*\*\*\*[**https://github.com/danielmiessler/SecLists/blob/master/Passwords/Default-Credentials/default-passwords.csv**](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Default-Credentials/default-passwords.csv)\*\*\*\*
-* [**https://github.com/Dormidera/WordList-Compendium**](https://github.com/Dormidera/WordList-Compendium)\*\*\*\*
+* \*\*\*\*[**https://github.com/Dormidera/WordList-Compendium**](https://github.com/Dormidera/WordList-Compendium)\*\*\*\*
 * \*\*\*\*[**https://www.cirt.net/passwords**](https://www.cirt.net/passwords)\*\*\*\*
 * \*\*\*\*[**http://www.passwordsdatabase.com/**](http://www.passwordsdatabase.com/)\*\*\*\*
 
@@ -367,6 +367,7 @@ crackmapexec winrm <IP> -d <Domain Name> -u usernames.txt -p passwords.txt
 * [https://www.cmd5.org/](https://www.cmd5.org/) \(Hashes\)
 * [https://hashkiller.co.uk/Cracker](https://hashkiller.co.uk/Cracker) \(MD5, NTLM, SHA1, MySQL5, SHA256, SHA512\)
 * [https://www.md5online.org/md5-decrypt.html](https://www.md5online.org/md5-decrypt.html) \(MD5\)
+* [https://www.objectif-securite.ch/ophcrack/](https://www.objectif-securite.ch/ophcrack) \(Hashes\)
 
 Check this out before trying to bruteforce a Hash.
 
